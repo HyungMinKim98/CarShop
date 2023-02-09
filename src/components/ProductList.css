@@ -1,0 +1,23 @@
+.product-item-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 960px;
+    margin: auto;
+    text-align: left;
+
+}
+.product-list{
+    font-family: 'Raleway','Open Sans', sans-serif;
+    background-color: #ffff;
+    padding-top:100px;
+}
+.product-list-title{
+    text-align: center;
+    margin-bottom: 36px;
+    font-size: 30px;
+}
+.product-car-type{
+    text-align: center;
+    margin-bottom: 24px;
+    font-size: 24px;
+}
