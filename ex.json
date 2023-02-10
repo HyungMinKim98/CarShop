@@ -1,0 +1,67 @@
+  {
+      "id": 4,
+      "product_name": "테슬라 모델 Y",
+      "price": 7789,
+      "distance": 511,
+      "electric_expenses": 5.4,
+      "battery_capacity": 75,
+      "product_img": "./img/img4.jpg",
+      "is_checked": "false",
+      "url":"https://www.tesla.com/ko_kr/modely"
+    },
+    {
+      "id": 5,
+      "product_name": "아이오닉 5",
+      "price": 5005,
+      "distance": 458,
+      "electric_expenses": 5.2,
+      "battery_capacity": 77.4,
+      "product_img": "./img/img5.jpg",
+      "is_checked": "false",
+      "url":"https://www.hyundai.com/kr/ko/e/vehicles/ioniq5/intro"
+
+    },
+    {
+      "id": 6,
+      "product_name": "아이오닉 6",
+      "price": 5200,
+      "distance": 524,
+      "electric_expenses": 6.2,
+      "battery_capacity": 77.4,
+      "product_img": "./img/img6.jpg",
+      "is_checked": "false",
+      "url":"https://www.hyundai.com/kr/ko/e/vehicles/ioniq6/intro"
+    },
+    {
+      "id": 7,
+      "product_name": "EV6",
+      "price": 5187,
+      "distance": 475,
+      "electric_expenses": 5.6,
+      "battery_capacity": 77.4,
+      "product_img": "./img/img7.jpg",
+      "is_checked": "false",
+      "url":"https://www.kia.com/kr/vehicles/ev6/features"
+    },
+    {
+      "id": 8,
+      "product_name": "폭스바겐 ID.4",
+      "price": 5490,
+      "distance": 405,
+      "electric_expenses": 4.7,
+      "battery_capacity": 82,
+      "product_img": "./img/img8.jpg",
+      "is_checked": "false",
+      "url":"https://www.volkswagen.co.kr/ko/models/id4.html"
+    },
+    {
+      "id": 9,
+      "product_name": "Polestar2",
+      "price": 5490,
+      "distance": 526,
+      "electric_expenses": 4.5,
+      "battery_capacity": 4.5,
+      "product_img": "./img/img9.jpg",
+      "is_checked": "false",
+      "url":"https://www.polestar.com/kr/polestar-2/"
+    }

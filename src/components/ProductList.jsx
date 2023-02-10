@@ -22,7 +22,7 @@ const ProductList= () => {
         <div className="product-list">
              <h2 className="product-list-title">상품 목록</h2>
              <h3 className="product-car-type">전기차</h3>
-           {/*   {
+            {
                 products.length > 0 ? 
                 (
                 <div className="product-item-container">
@@ -37,7 +37,7 @@ const ProductList= () => {
                  <h2>상품검색 결과가 없습니다.</h2>
                 )
              }
-              */}
+              
         </div>
         
 
