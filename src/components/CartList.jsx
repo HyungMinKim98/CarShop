@@ -14,7 +14,7 @@ const CartList=()=>{
             <h2 className="cart-list-title">장바구니</h2>
             {cartItem}
             <br/>
-            <hr/>
+            <hr className="hr"/>
             <div class="frame">
                 <i class="fal fa-money-check fa-lg" ></i>
                 <button class="custom-btn btn-12"><span>Click!</span><span>주문하기</span></button>
