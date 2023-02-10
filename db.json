@@ -43,30 +43,7 @@
         "product_img": "https://tesla-cdn.thron.com/delivery/public/image/tesla/91abd4c7-32a1-41cc-ade5-b64774dbea61/bvlatuR/std/2880x1800/Model-Y-Main-Hero-Desktop-Global?quality=auto-medium&format=auto",
         "is_checked": "false",
         "url":"https://www.tesla.com/ko_kr/modely"
-      },
-      {
-        "id": 5,
-        "product_name": "아이오닉 5",
-        "price": 5005,
-        "distance": 458,
-        "electric_expenses": 5.2,
-        "battery_capacity": 77.4,
-        "product_img": "https://www.hyundai.com/static/images/model/ioniq5/23my/ioniq5_design_front_side.png",
-        "is_checked": "false",
-        "url":"https://www.hyundai.com/kr/ko/e/vehicles/ioniq5/intro"
-
-      },
-      {
-        "id": 6,
-        "product_name": "아이오닉 6",
-        "price": 5200,
-        "distance": 524,
-        "electric_expenses": 6.2,
-        "battery_capacity": 77.4,
-        "product_img": "https://www.hyundai.com/static/images/model/ioniq6/23lc/ioniq6_design_front.png",
-        "is_checked": "false",
-        "url":"https://www.hyundai.com/kr/ko/e/vehicles/ioniq6/intro"
       }
-   
+ 
     ]
   }
