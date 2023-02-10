@@ -16,13 +16,14 @@
 .cart-item-name{
     font-size: 16px;
     font-weight: 600;
+    width: 100px; 
 }
 
 .cart-item-price{
     font-size: 14px;
     font-weight: 500;
     color: red;
-    font:bold
+    font:bold;
 }
 
 .fa-trash-alt{
