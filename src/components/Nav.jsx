@@ -17,13 +17,13 @@ const Nav = () => {
         <nav className="nav">
             <h1><Link to='/'>Electric Car Shop</Link></h1>
             <span>
-                <div className='boltcar'>
+                <div className='voltcar'>
                 <i class="far fa-car"></i>
                 <i class="fas fa-charging-station"></i>
                 </div>
             </span>
             <div className='search-box'>
-                <input type="text" placeholder='원하는 상품을 찾아보세요'  onKeyUp={onSearch} />
+                <input type="text" placeholder='원하는 제품을 찾아보세요'  onKeyUp={onSearch} />
             </div>
             <div>
                 <span>

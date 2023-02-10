@@ -12,10 +12,14 @@ const Detail = () => {
     console.log('파라미터 아이디',params.id)
     return (   
         <div className='container'>
-            <h2>상품상세페이지</h2>
-            <h3>제품의 이름은 {}입니다.</h3>
-            <h3>제품의 이름은 {json[0]}입니다.</h3>
-            
+            <blockquote class="aqua">
+                <h2><span class="Caqua">Car Name</span> - {clickItem[0].product_name}</h2>  
+                <h2><span class="Caqua">Price</span> - {clickItem[0].price} 만원 </h2>  
+                <h2><span class="Caqua">Distance</span> - {clickItem[0].distance}km</h2>  
+                <h2><span class="Caqua">Electric_expenses</span> - {clickItem[0].electric_expenses}km/kWh</h2>  
+                <h2><span class="Caqua">Battery_capacity</span> - {clickItem[0].battery_capacity}kWh</h2>  
+            </blockquote>
+
         </div>
         
     );

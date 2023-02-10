@@ -1,2 +1,68 @@
-.container{
-    margin-top: 100px;}
+@import url('https://fonts.googleapis.com/css?family=Montez');
+@import url(https://fonts.googleapis.com/css?family=Francois+One);
+ 
+.detail-container{
+    margin: 15px auto;
+    overflow: hidden;
+    width: 460px;
+    background-color: #fff;
+    padding: 20px 10px 10px;
+    margin-top: 100px;
+}
+.body{
+  background: #f5f7fa;
+  margin:10px;
+  padding:10px;
+  font-family:sans-serif;
+}
+ 
+.blockquote{
+  display:block;
+  background: #fff;
+  padding: 15px 20px 15px 45px;
+  margin: 0 0 20px;
+  position: relative;
+ 
+  /*Font*/
+  font-family: Georgia, serif;
+  font-size: 14px;
+  line-height: 1.2;
+  color: #666;
+ 
+  /*Box Shadow - (Optional)*/
+  -moz-box-shadow: 2px 2px 15px #ccc;
+  -webkit-box-shadow: 2px 2px 15px #ccc;
+  box-shadow: 2px 2px 15px #ccc;
+ 
+  /*Borders - (Optional)*/
+  border-left-style: solid;
+  border-left-width: 15px;
+  border-right-style: solid;
+  border-right-width: 2px;
+}
+ 
+
+.blockquote a{
+  text-decoration: none;
+  background: #eee;
+  cursor: pointer;
+  padding: 0 3px;
+  color: #c76c0c;
+}
+ 
+.blockquote a:hover{
+ color: #666;
+}
+ 
+blockquote em{
+  font-style: italic;
+}
+
+ 
+
+/*Aqua Color Palette*/
+blockquote.aqua{
+  border-left-color: #4fc2e5;
+  border-right-color: #3bb0d6;
+}
+ 
